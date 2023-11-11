@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9804bc-4203-475e-bec4-dc12636ca40a" name="更改" comment="Updated setup.py, pack.bat">
+    <list default="true" id="6d9804bc-4203-475e-bec4-dc12636ca40a" name="更改" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699677560287</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1699678703103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699678703103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1699678733520</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699678733520</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +148,7 @@
     <MESSAGE value="Updated chat.py" />
     <MESSAGE value="Updated setup.py" />
     <MESSAGE value="Updated setup.py, pack.bat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated setup.py, pack.bat" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
