@@ -28,6 +28,10 @@ bot = HunYuan(cookie="your_cookies_here")
 result = bot.ask(prompt="你好", # 要发送的内容
                  model="gpt_175B_0404" # 使用的模型，一般无需填写
                  )
+print(result)
+
+# {"text": "你好，有什么我可以帮助你的吗？", "images": []}
+# {"text": "这是一条图片信息", "images": [{"highImgUrl": imgUrlHigh, "lowImgUrl": imgUrlLow}, {"highImgUrl": imgUrlHigh, "lowImgUrl": imgUrlLow}, {"highImgUrl": imgUrlHigh, "lowImgUrl": imgUrlLow}]}
 ```
 #### 获取cookie
 1. 前往[腾讯混元](https://hunyuan.tencent.com/)，登录你的账号；
