@@ -17,7 +17,7 @@ rev_HunYuan 的开发者和贡献者对用户违反法律或从事任何形式�
 ## 使用
 ### 安装
 ```commandline
-pip install rev_HunYuan
+pip install -U rev_HunYuan
 ```
 
 ### 基本使用
