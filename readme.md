@@ -36,5 +36,5 @@ print(result)
 #### 获取cookie
 1. 前往[腾讯混元](https://hunyuan.tencent.com/)，登录你的账号；
 2. 打开”开发者工具“（F12），转到”网络“，随便发条消息；
-3. 找到如图请求：![img.png](img.png)（48f92d0f-6d42-4a39-9425-47a73ba11386）；
+3. 找到如图请求：![img.png](img.png)（你当前聊天窗口的ChatID）；
 4. 在右侧”请求标头“一栏，找到”Cookie“，将其内容完整的复制下来即可。
