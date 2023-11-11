@@ -67,9 +67,4 @@ class HunYuan:
         return result
 
 
-bot = HunYuan(
-    cookie="hy_user=XUCle0m9EvPTfCNo; hy_token=fgxewb/HjhMArvgwRdxvENoHdUKJk5fcEQUiUbGB+CSQTZhq0NBufS4vjFPo2P5U; hy_source=web")
 
-while 1:
-    prompt = input("请输入：")
-    print(bot.ask(prompt))
