@@ -38,3 +38,10 @@ print(result)
 2. 打开“开发者工具”（F12），转到“网络”，随便发条消息；
 3. 找到如图请求：![img.png](img.png)（你当前聊天窗口的ChatID）；
 4. 在右侧“请求标头”一栏，找到“Cookie”，将其内容完整的复制下来即可。
+
+
+
+
+##### Something funny
+![6688f0a27057982853ef0c1058446b91](https://github.com/HarcicYang/rev_HunYuan/assets/84220553/caa07589-4ebb-4ae0-9028-2fa8b93cf485)
+
