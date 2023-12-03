@@ -66,5 +66,10 @@ class HunYuan:
             result = {"text": "未知信息", "images": []}
         return result
 
-
-
+    def stream(self):
+        try:
+            while 1:
+                prompt = input("You: ")
+                print(self.ask(prompt))
+        except KeyboardInterrupt:
+            sys.exit()
