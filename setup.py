@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="rev_hunyuan",
-    version="0.21",
+    version="0.22",
     description="通过cookie信息快速访问腾讯混元",
     author="Harcic",
     author_email="harcic@outlook.com",

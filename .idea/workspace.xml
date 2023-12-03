@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9804bc-4203-475e-bec4-dc12636ca40a" name="更改" comment="Updated readme.md">
+    <list default="true" id="6d9804bc-4203-475e-bec4-dc12636ca40a" name="更改" comment="Updated chat.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rev_HunYuan/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rev_HunYuan/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rev_HunYuan/chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/rev_HunYuan/chat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rev_HunYuan/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rev_HunYuan/chat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rev_HunYuan/readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,16 +181,51 @@
       <option name="project" value="LOCAL" />
       <updated>1699680502259</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated chat.py">
+      <option name="closed" value="true" />
+      <created>1701575065570</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701575065570</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated chat.py">
+      <option name="closed" value="true" />
+      <created>1701575154193</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701575154193</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated chat.py">
+      <option name="closed" value="true" />
+      <created>1701575212424</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701575212424</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交" />
-    <MESSAGE value="Updated chat.py" />
     <MESSAGE value="Updated setup.py" />
     <MESSAGE value="Updated setup.py, pack.bat" />
     <MESSAGE value="Updated" />
     <MESSAGE value="Updated readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated readme.md" />
+    <MESSAGE value="Updated chat.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated chat.py" />
   </component>
 </project>
