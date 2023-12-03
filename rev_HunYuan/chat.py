@@ -73,3 +73,5 @@ class HunYuan:
                 print(self.ask(prompt))
         except KeyboardInterrupt:
             sys.exit()
+
+
